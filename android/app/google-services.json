@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852495514453",
+    "project_id": "keepnotezapp",
+    "storage_bucket": "keepnotezapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852495514453:android:b91433238909e3d3150ddc",
+        "android_client_info": {
+          "package_name": "com.example.keep_notez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dJxvb2ustWXXqSD8QAiFbaVZ7EEoot4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
